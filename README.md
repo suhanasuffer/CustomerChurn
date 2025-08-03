@@ -2,7 +2,9 @@
 Used Telco customer dataset to build an interactive dashboard that helps business users understand factors behind customer churn.
 
 🔧 Tools Used:
+
 Python
+
 Streamlit (for dashboard)
 
 <img width="1881" height="852" alt="image" src="https://github.com/user-attachments/assets/1cca763e-daf7-47c5-8478-35f91ab699fb" />
